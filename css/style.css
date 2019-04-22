@@ -1,3 +1,6 @@
+h3 {
+	text-align: center;;
+}
 canvas {
     display: block;
     margin: 50px auto;
